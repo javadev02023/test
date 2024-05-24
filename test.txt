@@ -1,0 +1,2 @@
+This is simple text file.
+you can access this file after cloning the code in your workspace
